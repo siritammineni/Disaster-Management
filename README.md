@@ -11,4 +11,4 @@ I created frontend with homepage,introduction page and webcam page
 ->webcam page gives realtime experience for an image
 
 
-#Github repository link of my project:
+#Github repository link of my project:https://github.com/siritammineni/Disaster-Management
